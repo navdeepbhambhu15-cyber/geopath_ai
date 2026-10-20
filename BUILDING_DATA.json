@@ -1,0 +1,38 @@
+{
+    "23,12": 330,
+    "24,12": 828,
+    "24,13": 632,
+    "25,13": 25.6,
+    "19,9": 508,
+    "20,9": 541,
+    "19,10": 452,
+    "20,10": 333,
+    "19,18": 309.6,
+    "20,18": 555,
+    "19,19": 1000,
+    "20,19": 492,
+    "route_points": {
+        "start": {
+            "name": "",
+            "lat": 28.5244,
+            "lon": 77.1854
+        }
+    },
+    "endpoint": {
+        "latitude": 28.52630773195521,
+        "longitude": 77.18757135637793
+    },
+    "drone_specs": {
+        "DJI FlyCart 30": {
+            "flight_time_min": 18,
+            "payload_kg": 40
+        }
+    },
+    "battery_report": {
+        "one_way_m": 294.6,
+        "round_trip_m": 589.1,
+        "flight_time_min": 1.0,
+        "battery_used_percent": 5.5,
+        "min_battery_needed_percent": 25.5
+    }
+}
